@@ -12,4 +12,4 @@
 
   
 5. 資訊安全面向將綜述所有主題，針對駭客常見攻擊手法與學生討論。
-[資安](https://github.com/eggwu96007/DDIMCC/blob/main/教材圖片/截圖%202024-06-10%20上午10.34.29.png)
+![資安](https://github.com/eggwu96007/DDIMCC/blob/main/教材圖片/截圖%202024-06-10%20上午10.34.29.png)
